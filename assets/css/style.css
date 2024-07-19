@@ -21977,7 +21977,7 @@ a.avatar img {
 
 @media only screen and (max-width: 767px) {
   a.avatar img {
-    max-height: 54px;
-    max-width: 54px;
+    height: 54px;
+    width: 54px;
   }
 }
