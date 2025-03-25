@@ -132,6 +132,7 @@ body {
   font-family: var(--font-primary);
   color: var(--color-body);
   font-weight: var(--p-regular);
+  overflow-x: hidden;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
