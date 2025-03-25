@@ -12066,6 +12066,8 @@ body.template-color-1 {
   z-index: 999;
   width: 100%;
   transition: 0.3s;
+  overflow: hidden;
+  max-width: 100vw;
 }
 
 .rn-header.header--fixed.rn-d-none {
